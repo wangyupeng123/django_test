@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0053222-66b9-4008-9693-60190beec51c" name="Default Changelist" comment="">
+    <list default="true" id="e0053222-66b9-4008-9693-60190beec51c" name="Default Changelist" comment="Merge branch 'master' of https://github.com/wangyupeng123/django_test&#10;&#10;# Conflicts:&#10;#&#9;psp/views.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/psp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,7 @@
       <workItem from="1619096889589" duration="2787000" />
       <workItem from="1619142856993" duration="52000" />
       <workItem from="1619169994420" duration="2376000" />
-      <workItem from="1619174824643" duration="557000" />
+      <workItem from="1619174824643" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;测是pycharm&quot;">
       <created>1619171193982</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619174903192</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;测是pycharm2&quot;">
+      <created>1619175512157</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619175512157</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,22 +156,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;测是pycharm&quot;" />
     <MESSAGE value="&quot;测是pycharm1&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;测是pycharm1&quot;" />
+    <MESSAGE value="&quot;测是pycharm2&quot;" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/wangyupeng123/django_test&#10;&#10;# Conflicts:&#10;#&#9;psp/views.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/wangyupeng123/django_test&#10;&#10;# Conflicts:&#10;#&#9;psp/views.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618409843803">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409843803" />
-    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2" timestamp="1619174898696">
+    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2" timestamp="1619176116239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="195" y="113" width="1582" height="813" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097145541" />
-    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619174898696" />
-    <state x="210" y="86" key="DiffContextDialog" timestamp="1619175237611">
+    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176116239" />
+    <state x="210" y="86" key="DiffContextDialog" timestamp="1619175898504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="210" y="86" key="DiffContextDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619175237611" />
+    <state x="210" y="86" key="DiffContextDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619175898504" />
     <state x="725" y="247" key="FileChooserDialogImpl" timestamp="1619142911832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,10 +188,10 @@
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409705646" />
     <state width="220" height="477" key="HiddenNamespacesPopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618408014678" />
-    <state x="1049" y="253" key="MultipleFileMergeDialog" timestamp="1619171038265">
+    <state x="797" y="253" key="MultipleFileMergeDialog" timestamp="1619176141358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1049" y="253" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619171038265" />
+    <state x="797" y="253" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176141358" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1618839941279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -211,11 +221,11 @@
     <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618492655885" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618730119005" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619142856938" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619175383010">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619176131860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097051399" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619175383010" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176131860" />
     <state x="636" y="20" width="944" height="999" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1618826741640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
