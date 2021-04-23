@@ -51,3 +51,7 @@ def delete(request, id):
     b = BookInfo.objects.get(id=id)
     b.delete()
     return HttpResponseRedirect('/index')
+
+
+def test(request):
+    return render(request, 'psp/show_book_detial.html', {'heros':heros, 'detial':detial})
