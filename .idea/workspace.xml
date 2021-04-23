@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0053222-66b9-4008-9693-60190beec51c" name="Default Changelist" comment="Merge branch 'master' of https://github.com/wangyupeng123/django_test&#10;&#10;# Conflicts:&#10;#&#9;psp/views.py">
+    <list default="true" id="e0053222-66b9-4008-9693-60190beec51c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/psp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/psp/views.py" afterDir="false" />
     </list>
@@ -37,6 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/wangyupeng123/django_test.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1r7Gey20oFBmCbQw8oo77EFkOOj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,7 +111,7 @@
       <workItem from="1619096889589" duration="2787000" />
       <workItem from="1619142856993" duration="52000" />
       <workItem from="1619169994420" duration="2376000" />
-      <workItem from="1619174824643" duration="1305000" />
+      <workItem from="1619174824643" duration="1770000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;测是pycharm&quot;">
       <created>1619171193982</created>
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619175512157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/wangyupeng123/django_test&#10;&#10;# Conflicts:&#10;#&#9;psp/views.py">
+      <created>1619176227159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619176227159</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,11 +179,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409843803" />
-    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2" timestamp="1619176116239">
+    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2" timestamp="1619176223306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="195" y="113" width="1582" height="813" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097145541" />
-    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176116239" />
+    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176223306" />
     <state x="210" y="86" key="DiffContextDialog" timestamp="1619175898504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -188,10 +202,14 @@
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409705646" />
     <state width="220" height="477" key="HiddenNamespacesPopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618408014678" />
-    <state x="797" y="253" key="MultipleFileMergeDialog" timestamp="1619176141358">
+    <state x="312" y="104" key="MergeDialog" timestamp="1619176581328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="797" y="253" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176141358" />
+    <state x="312" y="104" key="MergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176581328" />
+    <state x="797" y="253" key="MultipleFileMergeDialog" timestamp="1619176581356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="253" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176581356" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1618839941279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -221,11 +239,11 @@
     <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618492655885" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618730119005" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619142856938" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619176131860">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619176362674">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097051399" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176131860" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176362674" />
     <state x="636" y="20" width="944" height="999" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1618826741640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

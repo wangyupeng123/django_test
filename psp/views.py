@@ -51,4 +51,3 @@ def delete(request, id):
     b = BookInfo.objects.get(id=id)
     b.delete()
     return HttpResponseRedirect('/index')
-远程残酷131515135
