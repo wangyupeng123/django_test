@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0053222-66b9-4008-9693-60190beec51c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/psp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <workItem from="1618925393171" duration="829000" />
       <workItem from="1619096889589" duration="2787000" />
       <workItem from="1619142856993" duration="52000" />
-      <workItem from="1619169994420" duration="1290000" />
+      <workItem from="1619169994420" duration="2376000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;测是pycharm&quot;">
       <created>1619171193982</created>
@@ -112,26 +111,45 @@
       <option name="project" value="LOCAL" />
       <updated>1619171193983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;测是pycharm1&quot;">
+      <created>1619171310728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619171310728</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;测是pycharm&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;测是pycharm&quot;" />
+    <MESSAGE value="&quot;测是pycharm1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;测是pycharm1&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618409843803">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409843803" />
-    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2" timestamp="1619171190305">
+    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2" timestamp="1619171307144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="195" y="113" width="1582" height="813" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097145541" />
-    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619171190305" />
+    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619171307144" />
     <state x="210" y="86" key="DiffContextDialog" timestamp="1619140572448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,11 +197,11 @@
     <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618492655885" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618730119005" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619142856938" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619171028536">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619174855526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097051399" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619171028536" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619174855526" />
     <state x="636" y="20" width="944" height="999" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1618826741640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

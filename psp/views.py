@@ -51,3 +51,4 @@ def delete(request, id):
     b = BookInfo.objects.get(id=id)
     b.delete()
     return HttpResponseRedirect('/index')
+合法合法的胡回复的接口
