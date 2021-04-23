@@ -103,23 +103,35 @@
       <workItem from="1618925393171" duration="829000" />
       <workItem from="1619096889589" duration="2787000" />
       <workItem from="1619142856993" duration="52000" />
-      <workItem from="1619169994420" duration="1030000" />
+      <workItem from="1619169994420" duration="1290000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;测是pycharm&quot;">
+      <created>1619171193982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619171193983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;测是pycharm&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;测是pycharm&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618409843803">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409843803" />
-    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2" timestamp="1619170219617">
+    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2" timestamp="1619171190305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="195" y="113" width="1582" height="813" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097145541" />
-    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619170219617" />
+    <state x="306" y="63" width="1343" height="957" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619171190305" />
     <state x="210" y="86" key="DiffContextDialog" timestamp="1619140572448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,6 +141,10 @@
     </state>
     <state x="-1195" y="247" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409794154" />
     <state x="725" y="247" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619142911832" />
+    <state x="217" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1619171245926">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="217" y="0" key="FileDocumentManager.FileCacheConflict/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619171245926" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1618409705646">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>

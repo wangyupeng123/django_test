@@ -51,4 +51,4 @@ def delete(request, id):
     b = BookInfo.objects.get(id=id)
     b.delete()
     return HttpResponseRedirect('/index')
-编辑编辑
+编辑编辑12131135
