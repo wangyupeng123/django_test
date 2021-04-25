@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ajax请求</title>
+    <script src="/static/jquery-1.12.4.min.js"></script>
+    <script>
+        $(function(){
+            $('#btnAjax').click(function () {
+                $.ajax({
+                    'url':'/ajax_handle',
+                    'datatype':'json'
+                }).success(function (data) {
+                    alert(data.user)
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+    <input type="button" id="btnAjax" value="ajax请求">
+</body>
+</html>

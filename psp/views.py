@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
-from psp.models import BookInfo
+from psp.models import BookInfo,HeroInfo
 from datetime import date
-from django.http import HttpResponse, HttpResponseRedirect
+from django.http import HttpResponse, HttpResponseRedirect,JsonResponse
 from django.template import loader, RequestContext
 
 
@@ -9,18 +9,7 @@ from django.template import loader, RequestContext
 
 
 def index(request):
-    # return HttpResponse('老铁没毛病')
-    # temp = loader.get_template('psp/index.html')
-    # print('*'*50)
-    # print(temp)
-    # context = RequestContext(request,{'user': "wangyupeng"})
-    # # context.push(locals())
-    # print(context)
-    # res_html = temp.render(context=locals())
-    # print(res_html)
-    # return HttpResponse(res_html)
-    book = BookInfo.objects.all()
-    return render(request, 'psp/index.html', {'books': book})
+    return render(request, 'psp/index.html')
 
 
 def show_books(request):
@@ -51,3 +40,26 @@ def delete(request, id):
     b = BookInfo.objects.get(id=id)
     b.delete()
     return HttpResponseRedirect('/index')
+
+
+def login(request):
+    return render(request, 'psp/login.html')
+
+
+def login_check(request):
+    username = request.POST.get('username')
+    password = request.POST.get('password')
+    datas = HeroInfo.objects.all()
+    for data in datas:
+        # print(data.hname, data.hcomment)
+        if username == data.hname and password == data.hcomment:
+            return render(request, 'psp/login_check.html',{'username':username,'password':password})
+    return redirect('/login')
+
+
+def ajax_test(request):
+    return render(request, 'psp/ajax.html')
+
+
+def ajax_handel(request):
+    return JsonResponse({'user': 'wangyupeng'})

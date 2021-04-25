@@ -22,5 +22,9 @@ urlpatterns = [
     url(r'^books$', views.show_books),
     url(r'^creat$', views.creat),
     url(r'^delete/(\d+)$', views.delete),
-    url(r'^books/(\w+)$', views.show_book_detial)
+    url(r'^books/(\w+)$', views.show_book_detial),
+    url('^login$', views.login),
+    url('^login_check$', views.login_check),
+    url(r'^ajax_test$', views.ajax_test),
+    url(r'ajax_handle$', views.ajax_handel)
 ]

@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0053222-66b9-4008-9693-60190beec51c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/psp/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/psp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/psp/login_check.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_test/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/psp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/psp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/psp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/psp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/psp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +52,13 @@
       </set>
     </option>
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\django_test\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1r7Gey20oFBmCbQw8oo77EFkOOj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,7 +72,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn_packages" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -111,7 +125,8 @@
       <workItem from="1619096889589" duration="2787000" />
       <workItem from="1619142856993" duration="52000" />
       <workItem from="1619169994420" duration="2376000" />
-      <workItem from="1619174824643" duration="1770000" />
+      <workItem from="1619174824643" duration="2110000" />
+      <workItem from="1619186776271" duration="8036000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;测是pycharm&quot;">
       <created>1619171193982</created>
@@ -148,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619176227159</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://github.com/wangyupeng123/django_test&#10;&#10;# Conflicts:&#10;#&#9;psp/views.py">
+      <created>1619176609183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619176609183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,20 +201,21 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1383" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409843803" />
-    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2" timestamp="1619176223306">
+    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2" timestamp="1619176605437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="195" y="113" width="1582" height="813" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619097145541" />
-    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176223306" />
+    <state x="306" y="19" width="1343" height="866" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176605437" />
     <state x="210" y="86" key="DiffContextDialog" timestamp="1619175898504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="210" y="86" key="DiffContextDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619175898504" />
-    <state x="725" y="247" key="FileChooserDialogImpl" timestamp="1619142911832">
+    <state x="725" y="247" key="FileChooserDialogImpl" timestamp="1619260092468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1195" y="247" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1618409794154" />
-    <state x="725" y="247" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619142911832" />
+    <state x="725" y="247" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619260092468" />
+    <state x="725" y="247" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176692560" />
     <state x="217" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1619171245926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,10 +238,10 @@
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618839941279" />
     <state x="461" y="162" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618826742448" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1619175238726">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1619176621956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619175238726" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1619176621956" />
     <state x="822" y="339" width="343" height="701" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1618750997861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
